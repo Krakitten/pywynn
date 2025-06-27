@@ -1,0 +1,4 @@
+venv/*
+*.gif
+*.zip
+frames/*
